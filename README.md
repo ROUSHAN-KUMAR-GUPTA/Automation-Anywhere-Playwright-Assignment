@@ -146,7 +146,7 @@ This matches **Automation Anywhere SDET expectations** for combined UI + API aut
 ## 🙋‍♂ About Me
 
 *Roushan Kumar Gupta*
-👨‍💻 B.Tech CSE
+👨‍💻 B.Tech CSE(AIDS)
 📧 Email: [roushang720@gmail.com](roushang720@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/roushan-gupta-2aa923257/)
 
