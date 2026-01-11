@@ -22,6 +22,7 @@ This solution follows real Automation Anywhere enterprise automation practices.
 
 ## Project Structure
 
+```text
 automation-anywhere-playwright
 │
 ├── tests
@@ -37,6 +38,7 @@ automation-anywhere-playwright
 ├── package-lock.json
 ├── playwright.config.js
 └── README.md
+```
 
 
 
