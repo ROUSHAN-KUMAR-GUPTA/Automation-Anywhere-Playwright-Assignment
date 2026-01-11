@@ -25,16 +25,19 @@ This solution follows real Automation Anywhere enterprise automation practices.
 automation-anywhere-playwright
 │
 ├── tests
-│ ├── pages
-│ │ ├── MessageBoxPage.js
-│ │ └── FormPage.js
-│ ├── messageBox.spec.js
-│ ├── formUpload.spec.js
-│ └── createLearningInstance.spec.js
+│   ├── pages
+│   │   ├── MessageBoxPage.js
+│   │   └── FormPage.js
+│   ├── messageBox.spec.js
+│   ├── formUpload.spec.js
+│   └── createLearningInstance.spec.js
 │
-├── playwright.config.js
+├── .gitignore
 ├── package.json
+├── package-lock.json
+├── playwright.config.js
 └── README.md
+
 
 
 ---
