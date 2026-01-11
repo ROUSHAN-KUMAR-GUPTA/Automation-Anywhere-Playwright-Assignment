@@ -143,6 +143,11 @@ This project demonstrates:
 
 This matches **Automation Anywhere SDET expectations** for combined UI + API automation testing.
 
+## 🙋‍♂ About Me
 
+*Roushan Kumar Gupta*
+👨‍💻 B.Tech CSE
+📧 Email: [roushang720@gmail.com](roushang720@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/roushan-gupta-2aa923257/)
 
 
