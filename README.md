@@ -111,28 +111,7 @@ This approach avoids token expiration issues and matches how Automation Anywhere
 
 ---
 
-## Community Edition Limitation
 
-Automation Anywhere **Community Edition** includes anti-automation protection for:
-
-- Drag-and-drop panels  
-- Bot builder canvas  
-- Form designer elements  
-
-These elements are:
-
-- Visible to humans  
-- Blocked for automated browsers (Playwright, Selenium, etc.)
-
-Therefore:
-
-- Use Case 1 and Use Case 2 are **fully implemented in code**  
-- Their execution is blocked by **product-level security**  
-- This matches real Automation Anywhere CE behavior  
-
-In **Enterprise environments**, these tests run successfully.
-
----
 
 ## How to Run
 
